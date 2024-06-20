@@ -9,7 +9,7 @@ return [
         "updated_at" => "Atualizado em",
         "verified" => "Verificado",
         "unverified" => "Não verificado",
-        "name" => "Nomee",
+        "name" => "Nome",
         "email" => "Email",
         "password" => "Senha",
         "roles" => "Funções",
